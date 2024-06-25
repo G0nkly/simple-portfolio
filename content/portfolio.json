@@ -1,0 +1,80 @@
+{
+  "firstname": "Christian",
+  "lastname": "Hemauer",
+  "profession": "Python & Java Backend Developer",
+  "about": "Located in Munich, Germany I am a technologically enthusiastic, dedicated, and inquisitive developer and architect with several years of experience in Python and Java, primarily in backend development. Additionally, I have a strong interest in artificial intelligence and machine learning, as well as the integration of these technologies into practical applications.",
+  "experiences": [
+    {
+      "start": "February 2022",
+      "end": "April 2024",
+      "position": "Senior Developer",
+      "company": "Spryfox GmbH",
+      "projects": [
+        {
+          "name": "RAG Chatbot",
+          "description": "Development of a cloud-native chatbot for the legal-tech sector that answers questions about documents based on large volumes of contract data in natural language. The focus of the work included designing and conceptualizing the cloud architecture, development, and guiding the internal development team"
+        },
+        {
+          "name": "Cloud Data Pipeline",
+          "description": "Design and implementation of a data pipeline to unify private equity data from various sources. Subsequently, this data was classified and evaluated using a classification model trained on crawled data In this project, I was responsible as a developer for the technical implementation and integration of the pipeline"
+        },
+        {
+          "name": "Health Prediction Platform",
+          "description": "Architectural design and development of a health profile platform for potential new customers of a pet insurance company, enabling users to conduct a risk analysis of their pets based on a predictive model. Additionally, guided the internal development and external integration teams, and conducted requirements analysis with the client."
+        }
+      ]
+    },
+    {
+      "start": "February 2021",
+      "end": "January 2022",
+      "position": "Senior IT Consultant",
+      "company": "Valtech GmbH",
+      "projects": [
+        {
+          "name": "Online Market Platform for Farmers",
+          "description": "Tech lead and development of an online marketplace for trading operating supplies and feed between suppliers and farmers."
+        }
+      ]
+    },
+    {
+      "start": "December 2017",
+      "end": "January 2021",
+      "position": "IT Consultant",
+      "company": "Valtech GmbH",
+      "projects": [
+        {
+          "name": "Online Market Platform for Farmers",
+          "description": "Development of an online marketplace for trading operating supplies and feed between suppliers and farmers."
+        },
+        {
+          "name": "Backend Development",
+          "description": "Redesign and development of the backend of an internal company news portal"
+        },
+        {
+          "name": "AI PoC applications for the music industry",
+          "description": "Development and integration of a backend for the automatic assignment of music playback information to the corresponding royalty groups: Conception and development of PoC applications using machine learning methods for the music industry, including a content-based music recommendation engine using Convolutional Neural Networks Backend application for the automatic assignment of music playback information to the corresponding royalties using decision trees"
+        },
+        {
+          "name": "Fullstack Development within the music industry",
+          "description": "Product development for an online music licensing tool, including feature development, release management, and maintenance"
+        }
+      ]
+    },
+    {
+      "start": "December 2016",
+      "end": "November 2017",
+      "position": "Junior IT Consultant",
+      "company": "Valtech GmbH",
+      "projects": [
+        {
+          "name": "Music Royalty Analysis Platform",
+          "description": "Support in the redesign of an online platform for artists and songwriters to analyze licensing revenues, including conceptualization, feature development, testing, and release management"
+        },
+        {
+          "name": "Master Thesis: Development of the Foundations of a Content-Based Music Recommendation System",
+          "description": "Conception and development of a PoC web application that provides content-based music recommendations for a given audio track using Convolutional Neural Networks and audio fingerprinting Evaluation and selection of methods for feature engineering and extraction from audio Development and evaluation of a similarity score"
+        }
+      ]
+    }
+  ]
+}

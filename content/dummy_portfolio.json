@@ -1,0 +1,52 @@
+{
+  "firstname": "Max",
+  "lastname": "Mustermann",
+  "profession": "Your kind of profession",
+  "about": "Describe yourself here, where you live, what you do and work",
+  "experiences": [
+    {
+      "start": "February 2022",
+      "end": "April 2024",
+      "position": "Position Description",
+      "company": "Your Company GmbH",
+      "projects": [
+        {
+          "name": "Fancy Stuff #1",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+        },
+        {
+          "name": "Fancy Stuff #2",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+        },
+        {
+          "name": "Fancy Stuff #3",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+        }
+      ]
+    },
+    {
+      "start": "February 2021",
+      "end": "January 2022",
+      "position": "Position Description",
+      "company": "Your Company AG",
+      "projects": [
+        {
+          "name": "Fancy Stuff #1",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+        }
+      ]
+    },
+    {
+      "start": "December 2017",
+      "end": "January 2021",
+      "position": "Position Description",
+      "company": "Your Company AG",
+      "projects": [
+        {
+          "name": "Fancy Stuff #1",
+          "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+        }
+      ]
+    }
+  ]
+}
